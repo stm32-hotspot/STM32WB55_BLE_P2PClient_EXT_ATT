@@ -18,7 +18,7 @@
 
   * Prebuilt firmware image: STM32WB55_BLE_P2PClient_EXT_ATT.hex (STM32WB55_BLE_P2PClient_EXT_ATT\Binary)
 
-  * [STM32WB55_BLE_P2PServer_EXT_ATT]() (Optional)
+  * [STM32WB55_BLE_P2PServer_EXT_ATT](https://github.com/stm32-hotspot/STM32WB55_BLE_P2PServer_EXT_ATT) (Optional)
 
   * BLE Wireless Stack from [STM32CubeWB](https://www.st.com/en/embedded-software/stm32cubewb.html) V1.19.0
 
